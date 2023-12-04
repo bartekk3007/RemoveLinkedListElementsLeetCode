@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\48571\source\repos\RemoveLinkedListElements\RemoveLinkedListElements\main.c(56,7): warning C4133: "=": niezgodne typy - od "ListNode *" do "node *"
+C:\Users\48571\source\repos\RemoveLinkedListElements\RemoveLinkedListElements\main.c(102,15): warning C4133: "=": niezgodne typy - od "node *" do "ListNode *"
+C:\Users\48571\source\repos\RemoveLinkedListElements\RemoveLinkedListElements\main.c(100,17): warning C4133: "inicjowanie": niezgodne typy - od "ListNode *" do "node *"
+C:\Users\48571\source\repos\RemoveLinkedListElements\RemoveLinkedListElements\main.c(18): warning C4715: "createHead”: niewszystkie ścieżki kodu zwracają wartość
+  RemoveLinkedListElements.vcxproj -> C:\Users\48571\source\repos\RemoveLinkedListElements\x64\Debug\RemoveLinkedListElements.exe
